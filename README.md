@@ -10,7 +10,7 @@ Implementación en Python de cinco métodos numéricos para la resolución de ec
 - Secante  
 
 ## 🧩 Estructura del Proyecto
-
+```bash
 proyecto_metodos_numericos/
 ├── metodos/
 ├── funciones/
@@ -20,7 +20,7 @@ proyecto_metodos_numericos/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 ## ⚙️ Requisitos
 
 - Python 3.10 o superior  
